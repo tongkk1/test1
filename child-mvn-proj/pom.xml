@@ -7,13 +7,5 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 
-	<dependencies>
-		<!-- <dependency>
-			<groupId>com.it</groupId>
-			<artifactId>parent-mvn-proj</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency> -->
-	</dependencies>
-
 
 </project>
